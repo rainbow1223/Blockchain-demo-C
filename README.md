@@ -86,7 +86,7 @@ EasyBlockChain was created to serve three purposes:
 
 ## Collaborators
 
-**Project Manager** - Furkan Türkal (GitHub: **[dentrax](https://github.com/dentrax)**)
+**Core developer** - Rainbow (GitHub: **[rainbow1223](https://github.com/rainbow1223)**)
 
 ## Branches
 
@@ -96,7 +96,7 @@ The **[master branch](https://github.com/dentrax/EasyBlockChain/tree/master)** i
 
 ## Copyright & Licensing
 
-The base project code is copyrighted by Furkan 'Dentrax' Türkal and is covered by single licence.
+The base project code is copyrighted by Furkan 'Dentrax' TÃ¼rkal and is covered by single licence.
 
 All program code (i.e. .h, .cpp) is licensed under MIT License unless otherwise specified. Please see the **[LICENSE.md](https://github.com/Dentrax/EasyBlockChain/blob/master/LICENSE)** file for more information.
 
@@ -111,7 +111,7 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution instru
 
 ## Contact
 
-EasyBlockChain was created by Furkan 'Dentrax' Türkal
+EasyBlockChain was created by Furkan 'Dentrax' TÃ¼rkal
 
  * <https://www.furkanturkal.com>
  
